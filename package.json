@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "heroku deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salahadin1144/heroku.git"
+  },
+  "author": "Salahadin Y. Mahmud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salahadin1144/heroku/issues"
+  },
+  "homepage": "https://github.com/Salahadin1144/heroku#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
